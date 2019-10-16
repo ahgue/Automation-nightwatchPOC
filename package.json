@@ -1,0 +1,22 @@
+{
+  "name": "automation-nightwatchpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch tests/Login.Test.js --no-sandbox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ahgue:ahgue/Automation-nightwatchPOC.git"
+  },
+  "author": "Edgar_Figueroa <edgar.figueroa@wizeline.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.2.4"
+  },
+  "devDependencies": {
+    "chromedriver": "^77.0.0",
+    "geckodriver": "^1.19.0"
+  }
+}

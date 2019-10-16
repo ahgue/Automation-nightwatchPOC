@@ -1,0 +1,4 @@
+.env
+node_modules/
+chromedriver.log
+tests_output
