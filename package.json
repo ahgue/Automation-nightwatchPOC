@@ -13,7 +13,7 @@
   "author": "Edgar_Figueroa <edgar.figueroa@wizeline.com>",
   "license": "ISC",
   "dependencies": {
-    "nightwatch": "^1.2.4"
+    "nightwatch": "^1.7.13"
   },
   "devDependencies": {
     "chromedriver": "^77.0.0",
